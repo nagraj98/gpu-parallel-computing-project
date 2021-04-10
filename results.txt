@@ -1,0 +1,5 @@
+Results for gpu_basic.py :
+Code to add 1 to each element of an array of length n.
+when n = 10000000
+Processing time Without GPU:  4.641134299999999
+Processing time With GPU:  0.32240609999999936
