@@ -1,0 +1,8 @@
+100000000
+processing time without GPU: 43.3164284
+processing time with GPU: 2.2857216000000022
+
+
+10000000
+processing time without GPU: 4.197960699999999
+processing time with GPU: 1.3603341999999996
